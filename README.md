@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **frontend**
 
-- 🌱 I’m currently learning **mobile apps**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **react.js, next.js**
 
