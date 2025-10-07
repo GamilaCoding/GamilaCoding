@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Gamila <br><br>- 🔭 I’m working as Frontend developer <br>- 📚 I'm currently learning AI, ML <br>- ⚡ In my free time I reading books </p>
+<p align="left"><br>- 🔭 I’m working as Frontend developer <br>- 📚 I'm currently learning AI, ML <br>- ⚡ In my free time I reading books </p>
 
 ###
 
