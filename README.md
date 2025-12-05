@@ -29,8 +29,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- ضع روابط السوشيال هنا لو عايزاهم -->
+
+  <a href="https://discord.com/users/eng.fullstack" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" 
+         alt="discord" width="40" height="40"/>
+  </a>
+
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
