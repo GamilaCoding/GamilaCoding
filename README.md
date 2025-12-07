@@ -12,9 +12,9 @@
   <li>🔭 I’m currently working on <strong>AI Agents</strong></li>
   <li>🌱 I’m currently learning <strong>AI Agents & New frontend libraries</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Projects</strong></li>
-  <li>📝 I regularly write articles on 
+  <!-- <li>📝 I regularly write articles on 
     <a href="https://gamilacodes.blogspot.com/" target="_blank">gamilacodes.blogspot.com</a>
-  </li>
+  </li> -->
   <li>💬 Ask me about <strong>React, Next.js, HTML, CSS, JS, TS, APIs</strong></li>
   <li>📄 Know about my experiences: <strong>React.js Developer</strong></li>
 </ul>
