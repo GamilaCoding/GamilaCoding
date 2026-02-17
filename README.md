@@ -11,7 +11,8 @@
 <h1>Hi 👋 I'm Gamila</h1>
 
 <h3>
-Programming Fundamentals with C++  <br/>
+ Frontend Developer  && 
+  Programming Fundamentals with C++  <br/>
 Problem Solver
     
   • Solved <b>50+</b> Programming Problems
