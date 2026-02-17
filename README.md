@@ -11,7 +11,7 @@
 <h1>Hi 👋 I'm Gamila</h1>
 
 <h3>
-Programming Fundamentals with C++ <br/>
+Programming Fundamentals with C++ && Next.js <br/>
 Problem Solver • Solved <b>300+</b> Programming Problems
 </h3>
 
