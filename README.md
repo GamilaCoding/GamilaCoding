@@ -1,13 +1,13 @@
 <div align="center">
 
-<p align="center">
+<!-- <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/eng-ahmed-mohamed-dev/eng-ahmed-mohamed-dev/main/hello-coders.gif"
+    src="https://raw.githubusercontent.com/gamila/gamila/main/hello-coders.gif"
     width="60%"
     alt="Hello Coders"
   />
 </p>
-
+ -->
 <h1>Hi 👋 I'm Gamila</h1>
 
 <h3>
