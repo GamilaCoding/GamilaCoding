@@ -15,9 +15,6 @@ Programming Fundamentals with C++ <br/>
 Problem Solver • Solved <b>300+</b> Programming Problems
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eng-ahmed-mohamed-dev&style=flat&color=orange&label=PROFILE+VIEWS" />
-</p>
 
 </div>
 
