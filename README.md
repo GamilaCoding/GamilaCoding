@@ -11,7 +11,8 @@
 <h1>Hi 👋 I'm Gamila</h1>
 
 <h3>
- Frontend Developer  && 
+ Frontend Developer  
+ 
   Programming Fundamentals with C++  <br/>
 Problem Solver
     
