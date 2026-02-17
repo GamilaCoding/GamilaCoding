@@ -11,8 +11,10 @@
 <h1>Hi 👋 I'm Gamila</h1>
 
 <h3>
-Programming Fundamentals with C++ && Next.js <br/>
-Problem Solver • Solved <b>300+</b> Programming Problems
+Programming Fundamentals with C++  <br/>
+Problem Solver
+    
+  • Solved <b>50+</b> Programming Problems
 </h3>
 
 
@@ -21,7 +23,7 @@ Problem Solver • Solved <b>300+</b> Programming Problems
 ---
 
 ## 👨‍💻 About Me
-- 👨‍🎓 Learning **Programming Fundamentals using C++**
+- 👨‍🎓 Learning **Programming Fundamentals using C++ && Next.js**
   <img align="right"
        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
        width="120" />
