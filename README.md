@@ -33,7 +33,7 @@ Problem Solver
 - 🧠 Solved **50+ Programming Problems**
 - 🎯 Strong focus on **logic building & problem solving**
 - ✍️ Writing **clean & readable code**
-- 🚀 Planning to learn **OOP & Data Structures** next
+- 🚀 Planning to learn **Design patterns** next
 
 ---
 
