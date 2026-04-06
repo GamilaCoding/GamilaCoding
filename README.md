@@ -1,3 +1,5 @@
+![Gamilacoding Portfolio Preview](./portofolio.png)
+
 <div align="center">
 
 <!-- <p align="center">
@@ -8,7 +10,7 @@
   />
 </p>
  -->
-<h1>Hi 👋 I'm Gamila</h1>
+<h1>Hi 👋 I'm Software developer</h1>
 
 <h3>
  Frontend Developer  
