@@ -27,7 +27,7 @@ Problem Solver
 ---
 
 ## 👨‍💻 About Me
-- 👨‍🎓 Learning **Programming Fundamentals using C++ && Next.js**
+- 👨‍🎓 Learning **Js backend && Next.js**
   <img align="right"
        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
        width="120" />
@@ -35,7 +35,7 @@ Problem Solver
 - 🧠 Solved **50+ Programming Problems**
 - 🎯 Strong focus on **logic building & problem solving**
 - ✍️ Writing **clean & readable code**
-- 🚀 Planning to learn **Design patterns** next
+- 🚀 Planning to learn **Design patterns, Next.js** next
 
 ---
 
