@@ -75,20 +75,6 @@ Problem Solver
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eng-ahmed-mohamed-dev&theme=tokyonight"
-    width="45%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eng-ahmed-mohamed-dev&theme=tokyonight"
-    width="45%"
-  />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
