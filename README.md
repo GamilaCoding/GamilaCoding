@@ -18,10 +18,10 @@
   Programming Fundamentals with C++  <br/>
 Problem Solver
     
-  • Solved <b>50+</b> Programming Problems
+  • I am currently learning RAG and AI-powered applications.
 </h3>
 
-
+ 
 </div>
 
 ---
