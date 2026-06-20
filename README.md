@@ -10,7 +10,7 @@
   />
 </p>
  -->
-<h1>Hi 👋 I'm Software developer</h1>
+<h1>Hi 👋 I'm AI Web Apps & Chatbots | React · Next.js · LangChain</h1>
 
 <h3>
  Frontend Developer  
