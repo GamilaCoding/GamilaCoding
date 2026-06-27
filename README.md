@@ -31,11 +31,11 @@ Problem Solver
   <img align="right"
        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
        width="120" />
-- ✅ Completed **Structured Programming**
-- 🧠 Solved **50+ Programming Problems**
-- 🎯 Strong focus on **logic building & problem solving**
+- 🌱 I’m currently learning React, nextjs, RAG
+
+- 📫 How to reach me: gameliadeveloper@gmail.com
+
 - ✍️ Writing **clean & readable code**
-- 🚀 Planning to learn **Design patterns, Next.js** next
 
 ---
 
