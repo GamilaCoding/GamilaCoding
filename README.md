@@ -27,10 +27,6 @@ Problem Solver
 ---
 
 ## 👨‍💻 About Me
-- 👨‍🎓 Learning **Js backend && Next.js**
-  <img align="right"
-       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"
-       width="120" />
 - 🌱 I’m currently learning React, nextjs, RAG
 
 - 📫 How to reach me: gameliadeveloper@gmail.com
