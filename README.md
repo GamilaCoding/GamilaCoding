@@ -15,7 +15,7 @@
 <h3>
  Frontend Developer  
  
-  Programming Fundamentals with C++  <br/>
+  Programming Fundamentals with Python  <br/>
 Problem Solver
     
   • I am currently learning RAG and AI-powered applications.
