@@ -125,7 +125,7 @@ A collection of focused code samples demonstrating practical development pattern
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://gamila-website.netlify.app/">
+<a href="https://gamila-dev.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
