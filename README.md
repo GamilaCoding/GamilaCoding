@@ -1,6 +1,6 @@
-![Gamilacoding Portfolio Preview](./portofolio.png)
+<!--  ![Gamilacoding Portfolio Preview](./portofolio.png) -->
 
-<div align="center">
+<div align="center"> 
 
 <h1>Hi 👋 I'm Gamila</h1>
 
