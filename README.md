@@ -2,79 +2,124 @@
 
 <div align="center">
 
-<!-- <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/gamila/gamila/main/hello-coders.gif"
-    width="60%"
-    alt="Hello Coders"
-  />
-</p>
- -->
-<h1>Hi 👋 I'm AI Web Apps & Chatbots | React · Next.js · LangChain</h1>
+<h1>Hi 👋 I'm Gamila</h1>
 
 <h3>
- Frontend Developer  
- 
-  Programming Fundamentals with Python  <br/>
-Problem Solver
-    
-  • I am currently learning RAG and AI-powered applications.
+Frontend Developer | React · Next.js · JavaScript
+<br/>
+Building AI-powered Web Applications & Chatbots
+<br/>
+Learning RAG, LangChain & AI Application Development
 </h3>
 
- 
+<p>
+I build responsive, practical web applications with a focus on clean code,
+reusable components, API integration, and modern frontend architecture.
+</p>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning React, nextjs, RAG
 
-- 📫 How to reach me: gameliadeveloper@gmail.com
-
-- ✍️ Writing **clean & readable code**
+* 💻 Frontend Developer focused on **React.js, Next.js, and JavaScript**
+* 🤖 Currently learning **RAG, LangChain, LLM APIs, and AI-powered applications**
+* 🗄️ Experience building applications with **Supabase and PostgreSQL**
+* 🧩 Interested in building practical **AI-powered products and SaaS applications**
+* ✍️ I care about writing **clean, readable, and maintainable code**
+* 🧠 Strong interest in **problem solving and software development fundamentals**
+* 📫 Email: **[gameliadeveloper@gmail.com](mailto:gameliadeveloper@gmail.com)**
 
 ---
 
-## 🧑‍💻 Programming Languages
-<p align="center">
-    <img src="https://img.shields.io/badge/reacr.js-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html&CSS-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+## 🛠️ Tech Stack
 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+### Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Backend & Data
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### AI & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Learning-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠️ Tools & Editors
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## 🚀 What I Build
+
+* ⚡ Modern **React & Next.js applications**
+* 🧩 Reusable UI components and frontend architecture
+* 🔌 REST API integrations and asynchronous data handling
+* 🗄️ Database-driven applications with **Supabase / PostgreSQL**
+* 🤖 AI-powered applications and chatbot interfaces
+* 🔎 Exploring **RAG, embeddings, and LLM-powered features**
+* 📱 Responsive and user-focused web experiences
+
+---
+
+## 🧪 Code Samples
+
+A collection of focused code samples demonstrating practical development patterns:
+
+* 🔹 [React `useDebounce` Hook](https://gist.github.com/GamilaCoding/d728727fc7e40636b2771e5a61e62bc4)
+* 🔹 [Reusable API Request Utility](https://gist.github.com/GamilaCoding/274fc4db666a8028841888e431320806)
+* 🔹 [Supabase Products Query](https://gist.github.com/GamilaCoding/689c691053b9c228c997c6c0fbd95900)
+* 🔹 [Next.js Route Protection with Middleware](https://gist.github.com/GamilaCoding/472ef026fc2d5876e6c3d8410eec0706)
+* 🔹 [Reusable Form Validation Utility](https://gist.github.com/GamilaCoding/f3393750454e7b27f905f2b0b3236ff0)
+
+> Small, focused examples of reusable patterns and problem-solving approaches used in web application development.
 
 ---
 
 ## 📚 Current Learning Path
-- 🔹 Advanced C++ Basics
-- 🔹 Problem Solving Practice
-- 🔹 Writing clean & readable code
-- 🔜 Object-Oriented Programming (OOP)
-- 🔜 Data Structures
+
+* 🔹 Advanced **React & Next.js**
+* 🔹 Python for AI application development
+* 🔹 **RAG (Retrieval-Augmented Generation)**
+* 🔹 LangChain and LLM application patterns
+* 🔹 AI Agents and tool-based workflows
+* 🔹 Vector databases and embeddings
+* 🔹 Writing clean, maintainable, production-oriented code
+* 🔹 Problem Solving & Data Structures
 
 ---
 
-## 🏆 Achievements
-- ✅ Solved **50+ Programming Problems** using C++
-- 🔥 Strong foundation in **Problem Solving & Logic**
-- 💡 Continuous daily practice & improvement mindset
+## 🏆 Highlights
+
+* ✅ Built multiple **React / Next.js web applications**
+* ✅ Experience with **Supabase-backed applications**
+* ✅ Building and experimenting with **AI-powered applications**
+* ✅ Continuous problem-solving and programming practice
+* ✅ Focused on learning through real-world projects
 
 ---
-
 
 ## 🌐 Connect With Me
-<p align="center">
 
+<p align="center">
 
 <a href="https://www.linkedin.com/in/gamila-elqossery">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -88,7 +133,7 @@ Problem Solver
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gamilaelqossery@gmail.com">
+<a href="mailto:gameliadeveloper@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -97,6 +142,9 @@ Problem Solver
 ---
 
 ## 🧩 Problem Solving Mindset
-- 🧠 Think first, code second
-- ✍️ Understand the problem before writing any line
-- 🔁 Practice consistently
+
+* 🧠 Think first, code second
+* ✍️ Understand the problem before implementing a solution
+* 🔍 Break complex problems into smaller parts
+* 🔁 Practice consistently and improve through real projects
+* 🧹 Prefer simple, readable, and maintainable solutions
