@@ -121,7 +121,7 @@ A collection of focused code samples demonstrating practical development pattern
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/gamila-elqossery">
+<a href="https://www.linkedin.com/in/gamila-developer/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
