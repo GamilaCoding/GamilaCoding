@@ -129,7 +129,7 @@ A collection of focused code samples demonstrating practical development pattern
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/gamilaelqossery.tech/">
+<a href="https://www.instagram.com/gamilapro1333/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
